@@ -1,0 +1,3 @@
+# Patrón Command en PHP: Desacopla Solicitudes y Comandos para Mayor Flexibilidad
+
+- Descubre cómo implementar el Patrón Command en PHP para desacoplar solicitudes y comandos, logrando una arquitectura más flexible y escalable. En este tutorial práctico, aprenderás a encapsular operaciones como objetos, facilitando la extensión y modificación del comportamiento de tu aplicación sin afectar el código existente. Perfecto para manejar acciones en sistemas complejos de forma eficiente y organizada. ¡Optimiza la estructura de tus proyectos con este potente patrón de diseño! Espero que el curso les sea de utilidad 🤙🏼
